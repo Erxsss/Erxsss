@@ -1,7 +1,12 @@
 ![Header](https://i.pinimg.com/originals/c2/5c/53/c25c5344377ca56d18eb237ba6e51ea0.gif)
 
 # 💫 About Me:
-Im a  student developer aiming to become a Software Engineer and Machine Learning Engineer.<br>I have experience with C++, and T
+I’m a student developer aiming to become a Software Engineer and Machine Learning Engineer.<br>
+I have experience with C++, TypeScript, and I enjoy building full-stack projects and designing interfaces using Figma, with a growing interest in UI/UX.<br>
+I also have basic experience with electronics and Arduino, exploring how software connects with hardware.<br>
+Outside of coding, I love playing basketball—it keeps me active, disciplined, and focused.<br>
+In the future, I aim to become the founder and CEO of a unicorn startup.
+
 
 
 ## 🌐 Socials:
