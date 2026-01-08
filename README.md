@@ -1,7 +1,7 @@
 ![Header](https://i.pinimg.com/originals/c2/5c/53/c25c5344377ca56d18eb237ba6e51ea0.gif)
 
 # 💫 About Me:
-Im a passionate student developer aiming to become a Software Engineer and Machine Learning Engineer.<br>I have experience with C++, and TypeScript, and I enjoy solving problems, building projects, and learning how real-world systems work.<br>Outside of coding, I love playing basketball and chess, which help me stay active.
+Im a  student developer aiming to become a Software Engineer and Machine Learning Engineer.<br>I have experience with C++, and TypeScript, and I enjoy solving problems, building projects, and learning how real-world systems work.<br>Outside of coding, I love playing basketball and chess, which help me stay active.
 
 
 ## 🌐 Socials:
