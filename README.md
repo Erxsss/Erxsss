@@ -1,4 +1,3 @@
-![Header](https://i.pinimg.com/originals/c2/5c/53/c25
 # 💫 About Me:
 I’m a student developer aiming to become a Software Engineer and Machine Learning Engineer.<br>
 I have experience with C++, TypeScript, and I enjoy building full-stack projects and designing interfaces using Figma, with a growing interest in UI/UX.<br>
