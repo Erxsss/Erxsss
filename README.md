@@ -3,7 +3,6 @@ I’m a student developer aiming to become a Software Engineer and Machine Learn
 I have experience with C++, TypeScript, and I enjoy building full-stack projects and designing interfaces using Figma, with a growing interest in UI/UX.<br>
 I also have basic experience with electronics and Arduino, exploring how software connects with hardware.<br>
 Outside of coding, I love playing basketball—it keeps me active, disciplined, and focused.<br>
-In the future, I aim to become the founder and CEO of a unicorn startup.
 
 
 
