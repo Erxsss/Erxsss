@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I’m <code>Erkhes B.</code>
+  Hi, I’m <code>Erkhes</code>
 </h1>
 
 
