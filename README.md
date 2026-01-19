@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi, I’m <span style="color:#22c55e;">Erkhes B.</span></h1>
+<h1 align="center">
+  👋 Hi, I’m <code>Erkhes B.</code>
+</h1>
+
 
 
 # 💫 About Me:
