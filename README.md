@@ -12,7 +12,7 @@ Outside of coding, I love playing basketball—it keeps me active, disciplined, 
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61578022155607) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ex_booker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erkhessw@gmail.com) 
 
 # 💻 Tech Stack:
