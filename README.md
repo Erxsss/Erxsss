@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ask.libreoffice.org/uploads/asklibo/original/3X/0/d/0de586544bba6cc70466cd97b45686d5dcbca532.gif" 
+  <img src="https://krikey-ai.ghost.io/content/images/2025/06/GIF-Maker-Halloween-GIF-Transparent.GIF" 
        width="250" 
        alt="coding gif" />
 </p>
