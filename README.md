@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://krikey-ai.ghost.io/content/images/2025/06/GIF-Maker-Halloween-GIF-Transparent.GIF" 
+  <img src="https://bs.uenicdn.com/blog/wp-content/uploads/2018/04/giphy.gif" 
        width="250" 
        alt="coding gif" />
 </p>
