@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/bd/0b/97/bd0b97d7cbe6be892aea9da99d4a1e60.gif" 
-       alt="coding gif" 
-    />
-</p>
+
 
 <h1 align="center">
   Hi, I’m <code>Erkhes</code>
