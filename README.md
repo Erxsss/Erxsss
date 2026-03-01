@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/08/d5/b7/08d5b7770cbba74f72151b21b4de5100.gif" 
        alt="coding gif" 
-      height="500"
     />
 </p>
 
