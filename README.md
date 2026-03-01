@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5c/0d/b6/5c0db6d7d688da38a9d557914640a287.gif" 
+  <img src="https://i.pinimg.com/originals/10/5b/14/105b144619ea800705045e67997a9b20.gif" 
        alt="coding gif" 
       height="500"
     />
