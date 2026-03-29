@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/4a/6e/48/4a6e481934c4f1330ad5d7bb2e5c74ae.gif"  />
-</p>
+
 
 <h1 align="center">
   Hi, I’m <code>Erkhes</code>
